@@ -79,7 +79,7 @@ The imported data was inspected to verify that:
 
 ### Imported Parcel Geometry
 
-![Imported Parcel Geometry](screenshots/Day02_Imported_Parcel_Geometry.png)
+![Imported Parcel Geometry](screenshots/Day02_Imported_Parcel_Geometry.png.png)
 
 The screenshot demonstrates imported parcel polygons inside the Civil 3D/Map 3D environment.
 
@@ -119,7 +119,7 @@ This allowed the GIS elevation information to become part of a Civil 3D terrain 
 
 ### GIS Contour Surface
 
-![GIS Contour Surface](screenshots/Day03_GIS_Contour_Surface.png)
+![GIS Contour Surface](screenshots/Day03_GIS_Contour_Surface.png.png)
 
 The Civil 3D Prospector confirms the creation of the **GIS Contour Surface**, while the drawing displays the imported contour geometry.
 
@@ -139,7 +139,7 @@ The workflow demonstrates the transition from GIS infrastructure information int
 
 ### GIS Pipe Network
 
-![GIS Pipe Network](screenshots/Day04_GIS_Pipe_Network.png)
+![GIS Pipe Network](screenshots/Day04_GIS_Pipe_Network.png.png)
 
 The Civil 3D Prospector displays the **GIS Pipe Network** with separate **Pipes** and **Structures** collections.
 
@@ -155,7 +155,7 @@ Parcel information was displayed within the drawing and parcel identifiers were 
 
 ### GIS Parcel Labels
 
-![GIS Parcel Labels](screenshots/Day05_GIS_Parcel_Labels.png)
+![GIS Parcel Labels](screenshots/Day05_GIS_Parcel_Labels.png.png)
 
 The labeled parcel geometry demonstrates how spatial features and their associated GIS information can be presented within the AutoCAD/Civil 3D environment.
 
@@ -179,7 +179,7 @@ Layer styling was used to improve visual separation between different spatial da
 
 ### Final Integrated Project
 
-![Integrated GIS Civil 3D Project](screenshots/Day06_Integrated_GIS_Civil3D_Project.png)
+![Integrated GIS Civil 3D Project](screenshots/Day06_Integrated_GIS_Civil3D_Project.png.png)
 
 The final drawing demonstrates how GIS and Civil 3D information can be combined into a common environment for spatial analysis, visualization, and civil engineering workflows.
 
